@@ -1,0 +1,17 @@
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\Vinicius\Source\Repos\dotnet\samples\core\getting-started\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\Vinicius\source\repos\unit-testing-using-mstest\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb
