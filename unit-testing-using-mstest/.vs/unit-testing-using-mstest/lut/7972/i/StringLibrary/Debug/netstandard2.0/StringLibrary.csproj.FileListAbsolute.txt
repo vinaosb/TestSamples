@@ -1,0 +1,7 @@
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibrary\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibrary\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibrary\Debug\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibrary\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibrary\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibrary\Debug\netstandard2.0\StringLibrary.csproj.CopyComplete
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibrary\Debug\netstandard2.0\StringLibrary.dll

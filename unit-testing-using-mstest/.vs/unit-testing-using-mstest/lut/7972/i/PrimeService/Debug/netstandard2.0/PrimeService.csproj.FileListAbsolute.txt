@@ -1,0 +1,8 @@
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\PrimeService\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\PrimeService\Debug\netstandard2.0\PrimeService.dll
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\PrimeService\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\PrimeService\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\PrimeService\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\PrimeService\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\PrimeService\Debug\netstandard2.0\PrimeService.csproj.CopyComplete
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\PrimeService\Debug\netstandard2.0\PrimeService.dll

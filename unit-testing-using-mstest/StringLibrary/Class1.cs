@@ -27,7 +27,7 @@ namespace UtilityLibraries
 
             foreach (var ch in s.Trim())
             {
-                if (ch == ' ')
+                if (ch == ' ') //Char.IsWhiteSpace(ch);
                     return true;
             }
             return false;

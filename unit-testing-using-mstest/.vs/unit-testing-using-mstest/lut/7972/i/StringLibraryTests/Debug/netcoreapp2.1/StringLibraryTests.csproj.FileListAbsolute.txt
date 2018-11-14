@@ -1,0 +1,13 @@
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.deps.json
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.runtimeconfig.json
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.runtimeconfig.dev.json
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\b\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.dll
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.csprojAssemblyReference.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.AssemblyInfoInputs.cache
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.AssemblyInfo.cs
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.csproj.CopyComplete
+C:\Users\vsbb1\Source\Repos\vinaosb\TestSamples\unit-testing-using-mstest\.vs\unit-testing-using-mstest\lut\0\i\StringLibraryTests\Debug\netcoreapp2.1\StringLibraryTests.dll
